@@ -10,4 +10,4 @@ To see which obis_code's are sent from your power meter, you can simply set the 
 
 
 # Device view in Home Assistant
-![Screenshot](docs/HA_Power_Meter.png)
+![Screenshot](docs/Smart Meter OBIS.png)
